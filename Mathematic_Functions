@@ -1,0 +1,15 @@
+import java.util.*
+Class A{
+int a,b, add;
+Public Void add(){
+add = a+b;
+}
+Class main(){
+public static void main(String[]args)
+{
+A a=new A();
+a.add();
+
+}
+}
+}
