@@ -1,0 +1,7 @@
+class B{
+int c,d,e;
+public void sub(){
+e=c-d;
+system.out.println("Calculation of these two numbers is=" +e)
+}
+}
